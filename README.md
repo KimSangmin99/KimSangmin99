@@ -12,13 +12,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimsangmin99&label=Profile%20views&color=0e75b6&style=flat" alt="kimsangmin99" /> </p>
 
 
-<div align=center><h3 align="left">Connect with me:</h3><div>
+<h2 align="center">Connect with me:</h2><div>
 
-<div align=center>
-<p align="left">
+
+<p align="center">
 <a href="https://www.facebook.com/profile.php?id=100007996485975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007996485975" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sangrxin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sangrxin/" height="30" width="40" /></a>
-</p><div>
+</p>
 
 
 
