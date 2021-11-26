@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=76819C&height=350&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=76819C&height=350&section=header&text=Sangrxin%20render&fontSize=90" />
 
 
 
