@@ -1,18 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Sangrxin&fontSize=90&fontColor=#FFFFFF" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimsangmin99&label=Profile%20views&color=0e75b6&style=flat" alt="kimsangmin99" /> </p>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Sangrxin&fontSize=90&fontColor=#FFFFFF" />
 
 <div align=center><h1>👋 Hello!! This is Sangmin Kim 👋</h1></div>
 <h3 align=center>I'm SangminKim who is interested in Frontend, Backend development from South Korea.<br>
 If you want to contact me, please leave me a message!</h3>
 <br><br>
-
-
-
-
-
-
 
 <h2 align="center">📩Connect with me:📩</h2><div>
 <p align="center">
