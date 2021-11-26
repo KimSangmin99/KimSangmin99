@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimsangmin99&show_icons=true&locale=en&layout=compact" alt="kimsangmin99" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kimsangmin99&show_icons=true&locale=en" alt="kimsangmin99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimsangmin99&show_icons=true&locale=en" alt="kimsangmin99" /></p>
 
 
