@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Sangrxin&fontSize=90&fontColor=#FFFFFF" />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimsangmin99&label=Profile%20views&color=0e75b6&style=flat" alt="kimsangmin99" /> </p>
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimsangmin99&label=Profile%20views&color=0e75b6&style=flat" alt="kimsangmin99" /> </p>
+
 
 
 <h2 align="center">📩Connect with me:📩</h2><div>
