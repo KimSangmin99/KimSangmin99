@@ -4,6 +4,8 @@
 
 
 <div align=center><h1>👋 Hello!! This is Sangmin Kim 👋</h1></div>
+<h3>I'm SangminKim who is interested in Frontend, Backend development from South Korea.<br>
+If you want to contact me, please leave me a message!</h3>
 <br><br>
 
 
