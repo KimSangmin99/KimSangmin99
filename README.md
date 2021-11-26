@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimsangmin99&label=Profile%20views&color=0e75b6&style=flat" alt="kimsangmin99" /> </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Sangrxin&fontSize=90&fontColor=#FFFFFF" />
 
 <div align=center><h1>👋 Hello!! This is Sangmin Kim 👋</h1></div>
@@ -19,6 +18,7 @@ If you want to contact me, please leave me a message!</h3>
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimsangmin99&show_icons=true&locale=en&layout=compact" alt="kimsangmin99" />
-<img src="https://github-readme-stats.vercel.app/api?username=kimsangmin99&show_icons=true&locale=en" alt="kimsangmin99" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=kimsangmin99&show_icons=true&locale=en" alt="kimsangmin99" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimsangmin99&label=Profile%20views&color=0e75b6&style=flat" alt="kimsangmin99" /> </p></p>
 
 
