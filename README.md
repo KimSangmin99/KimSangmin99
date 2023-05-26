@@ -8,7 +8,7 @@ If you want to contact me, please leave me a message!</h3>
 <h2 align="center">📩Connect with me:📩</h2><div>
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100007996485975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007996485975" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sangrxin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sangrxin/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/s.lnxn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sangrxin/" height="30" width="40" /></a>
 </p><br><br>
 
 <div align=center><h1>📚 STACKS 📚</h1></div>
